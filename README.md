@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @theablestate
+- 👀 I connect Top Talent to Top Companies and Top Companies to Top Talents.
+- 🌱 I’m offering a Cheerful, Accessible, Short-term and Hands-on Tech skills Development Education and training.
+- 💞️ My Products
+- - - School of Computing
+- - - School of Software Development
+- - - Software Development
+- - - User Testing
+- 📫 How to reach me ... 
+- Facebook
+- Twitter
+- Instagram
+- Website
