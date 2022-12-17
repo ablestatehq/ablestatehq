@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theablestate
-- 👀 I connect Top Talent to Top Companies and Top Companies to Top Talents.
+- 👀 We specialise in Finding, Preparing and Connecting High-Value Developers with Businesses across the globe.
 - 🌱 I’m offering a Cheerful, Accessible, Short-term and Hands-on Tech skills Development Education and training.
 - 💞️ My Products
 - - - School of Computing
