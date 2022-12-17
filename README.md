@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @theablestate
-- 👀 We specialise in Finding, Preparing and Connecting High-Value Developers with Businesses across the globe.
-- 🌱 I’m offering a Cheerful, Accessible, Short-term and Hands-on Tech skills Development Education and training.
-- 💞️ My Products
-- - - School of Computing
+- 👋 Hey, We're Ablestate
+
+- 👀 We specialise in Finding, Preparing and Connecting High-Value Developer Talent with Businesses across the globe.
+- Whether you need an individual or a team of top talented developers - consider us your partner.
+- 💞️ Our Products
+- - - Top Tech Talent
+- - - Tech Jobs
 - - - School of Software Development
 - - - Software Development
 - - - User Testing
-- 📫 How to reach me ... 
-- Facebook
-- Twitter
-- Instagram
-- Website
+- 📫 How to reach us ... 
+- Facebook @ablestatehq
+- Twitter @ablestatehq
+- Instagram @ablestatehq
+- Website www.ablestate.co
