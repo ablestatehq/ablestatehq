@@ -1,18 +1,18 @@
 👋 Hey,\
 We're Ablestate 💪🏽
 
-👀 We specialise in Finding, Preparing and Connecting High-Value Developer Talent with Businesses across the globe.\
-Whether you need an individual or a team of top talented developers - consider us your partner.
+👀 We specialise in Finding, Preparing and Connecting High-Value Tech Talent with Businesses across the globe.\
+Whether you need an individual or a team of top talented Software Engineers - consider us your partner.
 
   💞️ **Our Products**
   
-     ✌️ High-Value Developer Talent
+     ✌️ High-Value Tech Talent
      
      ✌️ High-Value Developer Talent Jobs
      
-     ✌️ High-Value Software Development Training
+     ✌️ High-Value App Engineering Education
      
-     ✌️ High-Value Software Development
+     ✌️ High-Value Apps
 
 📫 **Let's connect ↓**
 
