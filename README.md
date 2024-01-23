@@ -1,18 +1,12 @@
 👋 Hey,\
-We're Ablestate 💪🏽
 
-The specialist in Finding, Preparing and Connecting High-Value Tech Talent with Businesses across the globe.\
-Whether you need an individual or a team of top talented Software Engineers - consider us your partner.
+Ablestate is a product development powerhouse. We connect developers and tech enthusiasts to opportunities and employers.
 
   💞️ **Our Products**
   
-     ✌️ High-Value Tech Talent
+     ✌️ Insightify: A mobile and web app where young people find uncountable life changing opportunities on a daily basis.
      
-     ✌️ High-Value Developer Talent Jobs
-     
-     ✌️ High-Value App Engineering Education
-     
-     ✌️ High-Value Apps
+     ✌️ African Talent: We are source of Talent developers and tech experts. 
 
 📫 **Let's connect ↓**
 
@@ -22,4 +16,4 @@ Whether you need an individual or a team of top talented Software Engineers - co
   
   🤗 Instagram @ablestatehq
   
-  🤗 Website www.ablestate.co
+  🤗 Website www.ablestate.africa
