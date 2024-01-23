@@ -4,10 +4,11 @@ Ablestate is a product development powerhouse. We connect developers and tech en
 
   💞️ **Our Products**
   
-     ✌️ Insightify: A mobile and web app where young people find uncountable life changing opportunities on a daily basis.
+     ✌️ Insightify
      
-     ✌️ African Talent: We are source of Talent developers and tech experts. 
-
+     ✌️ African Talent. 
+     
+     ✌️ Cloud. 
 📫 **Let's connect ↓**
 
   🤗 Facebook @ablestatehq
