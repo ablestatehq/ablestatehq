@@ -1,13 +1,6 @@
-Ablestate is a product development powerhouse. We connect developers and tech enthusiasts to opportunities and employers.
-
-  💞️ **Our Products**
+Ablestate supports individuals and organisations to boost their tech talent powerhouse. By providing skills development education, learning resources, community and assistance to get jobs in the tech industry.
   
-     ✌️ Insightify
-     
-     ✌️ African Talent. 
-     
-     ✌️ Cloud. 
-📫 **Let's connect ↓**
+📫 **Follow us↓**
 
   🤗 Facebook @ablestatehq
   
