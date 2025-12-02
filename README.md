@@ -2,10 +2,9 @@ Ablestate supports individuals and organisations to boost their tech talent powe
   
 📫 **Follow us↓**
 
-  🤗 Facebook @ablestatehq
+  🤗 Facebook @ablestateafrica
   
-  🤗 Twitter @ablestatehq
-  
-  🤗 Instagram @ablestatehq
+  🤗 Twitter @ablestateafrica
+  🤗 Instagram @ablestateafrica
   
   🤗 Website www.ablestate.africa
