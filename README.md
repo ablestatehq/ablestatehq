@@ -1,5 +1,10 @@
-Ablestate supports individuals and organisations to boost their tech talent powerhouse. By providing skills development education, learning resources, community and assistance to get jobs in the tech industry.
-  
+Ablestate empowers Africa's young people to thrive in the AI-era.
+
+**Solutions**
+
+- AIWO: Brings AI-powered learning to the most disconnected Africans.
+- SkillsToWork: Online portal for job seekings, employers and founders to publish opportunites, connect and discover investment and founder opportunites.
+
 📫 **Follow us↓**
 
   🤗 Facebook @ablestateafrica
